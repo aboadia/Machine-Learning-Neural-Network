@@ -19,3 +19,6 @@ Varying the learning rate from 0.2 to 0.01 results:
 When the learning rate is changed from 0.2 to 0.01, the average mse decreased from 531 to 321. The accuracy decreased as well from 22.9 to 17.1.
 ![Screen Shot 2022-10-07 at 5 49 15 PM](https://user-images.githubusercontent.com/89150972/194672617-67115b14-87be-4be3-b697-f6a9402ca414.png)
 
+Question 2 # 6
+Varying the number of neurons in the hidden layer results: 
+![Screen Shot 2022-10-07 at 5 52 00 PM](https://user-images.githubusercontent.com/89150972/194672833-3aff9ac1-2bdd-4110-a655-fced7846b7a6.png)
